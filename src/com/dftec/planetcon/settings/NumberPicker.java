@@ -60,7 +60,7 @@ public class NumberPicker extends LinearLayout implements OnClickListener,
     // PRIVATE ====================================================================================
 
     private static final int DEFAULT_START = 0;
-    private static final int DEFAULT_END = 99;
+    private static final int DEFAULT_END = 9999;
 
     private static final char[] DIGIT_CHARACTERS = new char[]{
         '-', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'

@@ -105,8 +105,8 @@ public class SettingsActivity extends PreferenceActivity implements
     public static final int MAX_PLAYERS = 36;
     public static final int MAX_RADIUS = 36;
     public static final int MAX_DENSITY = 10;
-    public static final int MAX_PLANETS = 99;
-    public static final int MAX_TURNS = 99;
+    public static final int MAX_PLANETS = 9999;
+    public static final int MAX_TURNS = 9999;
     public static final int MAX_POSITIONS = 10;
     public static final int ZOOM_MAX = 10;
     public static final int AI_HUMAN = 0;
